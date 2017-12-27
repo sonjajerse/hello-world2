@@ -1,3 +1,4 @@
 # hello-world2
-test
+
 učim se uporabljati GitHub
+še nekaj dodanega
