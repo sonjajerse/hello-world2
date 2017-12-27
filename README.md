@@ -1,3 +1,4 @@
 # hello-world2
-test
-učim se uporabljati GitHub
+haha
+učim se bonzo GitHub
+it
