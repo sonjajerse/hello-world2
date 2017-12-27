@@ -1,4 +1,2 @@
-# hello-world2
-haha
-učim se bonzo GitHub
-it
+učim se uporabljati GitHub
+še nekaj dodanega
